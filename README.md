@@ -1,5 +1,5 @@
 # Any_date_Column_Extractor
-Concept of NLP and mattern has been leveraged
+Concept of NLP and pattern matching has been leveraged
 
 FUNCTION EXPLAINATION
 
